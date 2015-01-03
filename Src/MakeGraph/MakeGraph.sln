@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MakeGraph", "MakeGraph\MakeGraph.fsproj", "{A5C2EF53-7F9A-411B-841A-217FFBAC8EA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9A823E7D-923E-43C4-8BF8-1B5F4D8EC025}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C2EF53-7F9A-411B-841A-217FFBAC8EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C2EF53-7F9A-411B-841A-217FFBAC8EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C2EF53-7F9A-411B-841A-217FFBAC8EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C2EF53-7F9A-411B-841A-217FFBAC8EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
